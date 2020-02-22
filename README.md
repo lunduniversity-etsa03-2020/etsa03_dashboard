@@ -1,7 +1,7 @@
 # etsa03_dashboard
 
 
-| Group | Bot Name | Build Status  | Code Quality | Test Coverage | System Mastery |
+| Group | Bot Name | Build Status  | Code Quality | Code Coverage | System Mastery |
 | ------------- | ------------- | ------------- | ------------ | -------------------- | -------------------- |
 | Group 01 | TBD | [![Build Status](https://travis-ci.com/lunduniversity-etsa03-2020/group01.svg?token=5APFjNjjtcXBExwy1SfH&branch=master)](https://travis-ci.com/lunduniversity-etsa03-2020/group01) | [![Maintainability](https://api.codeclimate.com/v1/badges/f8d1ac337bd813db9de4/maintainability)](https://codeclimate.com/repos/5e4eeae87da14c5f6c0114fe/maintainability) | [![codecov](https://codecov.io/gh/lunduniversity-etsa03-2020/group01/branch/master/graph/badge.svg?token=EDb7c1hZTb)](https://codecov.io/gh/lunduniversity-etsa03-2020/group01) | [![CodeScene System Mastery](https://codescene.io/projects/7118/status-badges/system-mastery)](https://codescene.io/projects/7118) |
 | Group 02 | TBD | [![Build Status](https://travis-ci.com/lunduniversity-etsa03-2020/group02.svg?token=5APFjNjjtcXBExwy1SfH&branch=master)](https://travis-ci.com/lunduniversity-etsa03-2020/group02) | [![Maintainability](https://api.codeclimate.com/v1/badges/fe74882b6904fc840df6/maintainability)](https://codeclimate.com/repos/5e4ef8c17da14c5ebd015095/maintainability) | badge | badge |
